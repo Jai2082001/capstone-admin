@@ -1,0 +1,19 @@
+.permissionModel{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.permissionModel button{
+    margin: 10px;
+}
+
+.accepted{
+    background-color: lightgreen;
+    border: 1px solid green;
+
+}
+.declined {
+    background-color: rgb(247, 63, 63);
+    border: 1px solid red;
+}
